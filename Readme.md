@@ -10,3 +10,7 @@ all being drive by the CoreChips SL2.1s Usb 2 chip
 
 heres the link to the onshape project for those interested
 https://cad.onshape.com/documents/5a75bb55e0aecf78693a2579/w/da3bd1f2543066ad8ce58978/e/36d5b5ca91d48c9aa82f422e?renderMode=0&uiState=6a639ebfcacf84581c4a6f03
+
+
+oshwlab 
+ https://oshwlab.com/thedragonrider46/project_qsftfapj
